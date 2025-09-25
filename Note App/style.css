@@ -1,0 +1,96 @@
+/* Genel Body */
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+  background: linear-gradient(to bottom, #ff1744, #ff8a80);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.container {
+  text-align: center;
+  width: 400px;
+  background: white;
+  padding: 25px;
+  border-radius: 12px;
+  box-shadow: 0 8px 25px rgba(0,0,0,0.2);
+}
+
+/* Başlık */
+h1 {
+  margin-bottom: 20px;
+  color: #b71c1c;
+}
+
+/* Input Box */
+.input-box {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.input-box input {
+  padding: 10px;
+  width: 250px;
+  border-radius: 8px 0 0 8px;
+  border: 1px solid #ccc;
+  outline: none;
+  transition: 0.3s;
+}
+
+.input-box input:focus {
+  box-shadow: 0 0 10px rgba(183,28,28,0.3);
+}
+
+.input-box button {
+  padding: 10px 20px;
+  border: none;
+  background-color: #b71c1c;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  border-radius: 0 8px 8px 0;
+  transition: 0.3s;
+}
+
+.input-box button:hover {
+  background-color: #f44336;
+  transform: scale(1.05);
+}
+
+/* Liste */
+#notes-list {
+  list-style: none;
+  padding: 0;
+}
+
+#notes-list li {
+  background: #ffebee;
+  margin-bottom: 10px;
+  padding: 10px;
+  border-radius: 8px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  transition: 0.3s;
+}
+
+#notes-list li:hover {
+  background: #ffcdd2;
+}
+
+.delete-btn {
+  background: none;
+  border: none;
+  color: #b71c1c;
+  font-weight: bold;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.delete-btn:hover {
+  color: #f44336;
+  transform: scale(1.2);
+}

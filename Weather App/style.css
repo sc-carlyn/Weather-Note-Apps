@@ -1,0 +1,69 @@
+/* Genel Body */
+body {
+  font-family: Arial, sans-serif;
+  background: linear-gradient(to bottom, #87cefa, #e0f7fa); /* mavi + beyaz tonları */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.container {
+  text-align: center;
+  background: white;
+  padding: 25px;
+  border-radius: 12px;
+  box-shadow: 0 8px 25px rgba(0,0,0,0.2);
+  width: 320px;
+}
+
+h1 {
+  color: #1e88e5; /* koyu mavi başlık */
+  margin-bottom: 20px;
+}
+
+/* Input ve Button */
+input, button {
+  padding: 10px;
+  margin: 10px 0;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  outline: none;
+  width: 80%;
+}
+
+input:focus {
+  box-shadow: 0 0 10px rgba(30,136,229,0.3);
+}
+
+button {
+  background-color: #1e88e5;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+button:hover {
+  background-color: #42a5f5;
+  transform: scale(1.05);
+}
+
+/* Hava Durumu Bilgileri */
+#weather-info {
+  display: none;
+  margin-top: 20px;
+}
+
+#weather-icon {
+  width: 120px;
+  height: 120px;
+  margin: 0 auto;
+}
+
+#description, #temperature {
+  margin: 5px 0;
+  color: #1565c0; /* koyu mavi tonları */
+  font-weight: bold;
+}
