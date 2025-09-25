@@ -29,7 +29,8 @@ Home Page:
 
 Search Results:
 
-![Weather Search](weather-app/screenshots/weather-search.png)
+![Weather Search](screenshots/weather-search.png)
+
 ---
 
 ## 2. Note App
