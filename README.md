@@ -15,7 +15,6 @@ A sleek and modern weather application that provides current weather information
 - Clean **blue and white themed design**
 - Responsive layout with centered content
 - Smooth interactive buttons and hover effects
-- Local time display and traffic info placeholder
 
 ### How to Use:
 1. Open the `weather-app` folder in your browser
