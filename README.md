@@ -1,6 +1,6 @@
 # 🌟 Projects: Professional Web Applications
 
-Welcome to this repository showcasing **two high-quality web applications** built with modern HTML, CSS, and JavaScript.  
+Welcome to this repository showcasing **two web applications** built with modern HTML, CSS, and JavaScript.  
 Both projects are designed with **clean UI/UX, responsive layouts, and interactive features** to demonstrate professional web development practices.
 
 ---
@@ -20,6 +20,16 @@ A sleek and modern weather application that provides current weather information
 1. Open the `weather-app` folder in your browser
 2. Enter a city name and click "Search"
 3. View the weather information with animations
+ 
+### Screenshots
+
+Home Page:
+
+![Weather Home](weather-app/screenshots/weather-home.png)
+
+Search Results:
+
+![Weather Search](screenshots/weather-search.png)
 
 ---
 
@@ -39,3 +49,12 @@ A simple yet professional note-taking application that stores your notes locally
 2. Add new notes using the input field and "Add" button
 3. Delete notes individually using the "Delete" button
 
+### Screenshots
+
+Home Page:
+
+![Note Home](note-app/screenshots/note-home.png)
+
+Adding a Note:
+
+![Add Note](note-app/screenshots/note-add.png)
