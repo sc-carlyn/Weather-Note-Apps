@@ -29,7 +29,7 @@ Home Page:
 
 Search Results:
 
-![Weather Search](screenshots/weather-search.png)
+![Weather Search](weather-app/screenshots/weather-search.png)
 
 ---
 
