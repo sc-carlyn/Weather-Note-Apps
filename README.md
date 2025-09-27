@@ -38,4 +38,5 @@ A simple yet professional note-taking application that stores your notes locally
 1. Open the `note-app` folder in your browser
 2. Add new notes using the input field and "Add" button
 3. Delete notes individually using the "Delete" button
+
 You can view all the screenshots of the projects in the GitHub repository under the `screenshots` folder.
