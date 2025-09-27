@@ -1,7 +1,7 @@
-# 🌟 Projects: Professional Web Applications
+# 🌟 Projects: Simple Web Applications
 
-Welcome to this repository showcasing **two web applications** built with modern HTML, CSS, and JavaScript.  
-Both projects are designed with **clean UI/UX, responsive layouts, and interactive features** to demonstrate professional web development practices.
+Welcome to this repository showcasing **two web applications** built with HTML, CSS, and JavaScript.  
+Both projects feature **clean layouts, responsive design, and interactive elements** to provide a practical and engaging experience.
 
 ---
 
