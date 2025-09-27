@@ -25,11 +25,11 @@ A sleek and modern weather application that provides current weather information
 
 Home Page:
 
-![Weather Home](weather-app/screenshots/weather-home.png)
+![Weather Home](weather%20app/screenshots/weather-home.png)
 
 Search Results:
 
-![Weather Search](weather-app/screenshots/weather-search.png)
+![Weather Search](weather%20app/screenshots/weather-search.png)
 
 ---
 
@@ -53,8 +53,8 @@ A simple yet professional note-taking application that stores your notes locally
 
 Home Page:
 
-![Note Home](note-app/screenshots/note-home.png)
+![Note Home](note%20app/screenshots/note-home.png)
 
 Adding a Note:
 
-![Add Note](note-app/screenshots/note-add.png)
+![Add Note](note%20app/screenshots/note-add.png)
