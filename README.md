@@ -20,16 +20,6 @@ A sleek and modern weather application that provides current weather information
 1. Open the `weather-app` folder in your browser
 2. Enter a city name and click "Search"
 3. View the weather information with animations
- 
-### Screenshots
-
-Home Page:
-
-![Weather Home](weather%20app/screenshots/weather-home.png)
-
-Search Results:
-
-![Weather Search](weather%20app/screenshots/weather-search.png)
 
 ---
 
@@ -48,13 +38,3 @@ A simple yet professional note-taking application that stores your notes locally
 1. Open the `note-app` folder in your browser
 2. Add new notes using the input field and "Add" button
 3. Delete notes individually using the "Delete" button
-
-### Screenshots
-
-Home Page:
-
-![Note Home](note%20app/screenshots/note-home.png)
-
-Adding a Note:
-
-![Add Note](note%20app/screenshots/note-add.png)
